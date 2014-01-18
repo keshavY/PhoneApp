@@ -3,3 +3,8 @@ C:\Users\sangwan\Documents\Visual Studio 2012\Projects\PhoneApp\PhoneApp\bin\Pho
 C:\Users\sangwan\Documents\Visual Studio 2012\Projects\PhoneApp\PhoneApp\obj\Debug\PhoneApp.csprojResolveAssemblyReference.cache
 C:\Users\sangwan\Documents\Visual Studio 2012\Projects\PhoneApp\PhoneApp\obj\Debug\PhoneApp.dll
 C:\Users\sangwan\Documents\Visual Studio 2012\Projects\PhoneApp\PhoneApp\obj\Debug\PhoneApp.pdb
+C:\Users\sangwan\Documents\GitHub\PhoneApp\PhoneApp\bin\PhoneApp.dll
+C:\Users\sangwan\Documents\GitHub\PhoneApp\PhoneApp\bin\PhoneApp.pdb
+C:\Users\sangwan\Documents\GitHub\PhoneApp\PhoneApp\obj\Debug\PhoneApp.csprojResolveAssemblyReference.cache
+C:\Users\sangwan\Documents\GitHub\PhoneApp\PhoneApp\obj\Debug\PhoneApp.dll
+C:\Users\sangwan\Documents\GitHub\PhoneApp\PhoneApp\obj\Debug\PhoneApp.pdb

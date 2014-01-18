@@ -1,0 +1,23 @@
+﻿<div data-options="dxView : { name: 'register', title: 'Register' } " >
+    <br/><br/>
+    <div class="textBox" data-bind=" dxTextBox: { mode: 'email', placeholder: 'Provide your email Id' }"></div><br />    
+    <div class="textBox" data-bind=" dxTextBox: { mode: 'tel',   placeholder: 'Provide your Mobile Number' }"></div><br />
+         
+    <div class="dx-fieldset">
+        <div class="dx-field">
+            <div data-bind="dxRadioGroup:{dataSource: gender, layout:'horizontal', selectedIndex: 0}">
+            <div data-options="dxTemplate: {name: 'item'}">
+            <span data-bind="text: name"></span>
+            </div>
+            </div>
+        </div>
+        <div class="dx-field">
+            <div data-bind="dxRadioGroup:{dataSource: smoking, layout:'horizontal', selectedIndex: 0}">
+            <div data-options="dxTemplate: {name: 'item'}">
+            <span data-bind="text: name"></span>
+            </div>
+            </div>
+        </div>
+     </div>
+    <div data-bind="dxButton: { text: 'REGISTER' }"></div>
+</div>

@@ -1,8 +1,3 @@
-﻿MyApp.home = function (params) {
+﻿email = "email";
 
-    var viewModel = {
-//  Put the binding properties here
-    };
-
-    return viewModel;
-};
+passMode = "password";

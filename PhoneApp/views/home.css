@@ -1,4 +1,11 @@
-﻿/* Put css styles for home view here */
-.home-view p {
-	padding: 5px;
-}
+﻿    body{
+    text-align: center;
+    }
+    .textBox{
+    margin: 10px;
+    }
+    
+    .button{
+    margin-top: 25px;
+    }
+

@@ -13,15 +13,21 @@
             navigationType: "navbar",
             navigation: [
               {
-                title: "Home",
-                action: "#home",
-                icon: "home"
+                  title: "Login",
+                  action: "#home",
+                  icon: "home"
               },
+                {
+                    title:"Register",
+                    action: "#register",
+                    icon: "home"
+                },
               {
-                title: "About",
-                action: "#about",
-                icon: "info"
+                  title: "About",
+                  action: "#about",
+                  icon: "info"
               }
+            
             ]
         });
         
