@@ -115,6 +115,8 @@
     <Content Include="views\home.js" />
     <Content Include="views\register.html" />
     <Content Include="views\register.js" />
+    <Content Include="views\select.html" />
+    <Content Include="views\select.js" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
