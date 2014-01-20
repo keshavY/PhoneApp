@@ -17,7 +17,7 @@
         //default navigation
         MyApp.app = new DevExpress.framework.html.HtmlApplication({
             namespace: MyApp,            
-            navigationType: 'navbar',
+            navigationType: 'slideout',
             navigation: [
               {
                   title: "Login",
