@@ -22,17 +22,17 @@
               {
                   title: "Login",
                   action: "#home",
-                  icon: "home"
+                  iconSrc: "css/images/home.png"
               },
                 {
                     title:"Register",
                     action: "#register",
-                    icon: "home"
+                    iconSrc: "css/images/sign-up.png"
                 },
               {
                   title: "About",
                   action: "#about",
-                  icon: "info"
+                  iconSrc: "css/images/info.png"
               }
             
             ]

@@ -66,6 +66,8 @@
     <Content Include="css\dx.tizen.white.css" />
     <Content Include="css\dx.win8.black.css" />
     <Content Include="css\dx.win8.white.css" />
+    <Content Include="css\images\home.png" />
+    <Content Include="css\images\info.png" />
     <Content Include="index.css" />
     <Content Include="index.html" />
     <Content Include="index.js" />
@@ -115,6 +117,13 @@
     <Content Include="views\home.js" />
     <Content Include="views\register.html" />
     <Content Include="views\register.js" />
+    <Content Include="views\rider\rider.html" />
+    <Content Include="views\rider\rider.js" />
+    <Content Include="views\rider\searchRide.html" />
+    <Content Include="views\rider\ridePending.html" />
+    <Content Include="views\rider\availableRides.html" />
+    <Content Include="views\rider\searchRide.js" />
+    <Content Include="views\rider\sendRequest.html" />
     <Content Include="views\select.html" />
     <Content Include="views\select.js" />
     <Content Include="Web.config" />

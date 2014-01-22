@@ -1,0 +1,10 @@
+﻿<div data-options="dxView : { name: 'searchRide', title: 'SEARCH RIDE'} " >
+    
+    <div data-bind="dxTabs:{dataSource: tabs, itemClickAction: tabClicked}"></div>
+
+    <div class="textBox" data-bind=" dxTextBox: { placeholder: 'Source' }"></div><br />    
+    <div class="textBox" data-bind=" dxTextBox: { placeholder: 'Destination' }"></div><br />
+    <div class="textBox" data-bind=" dxTextBox: { placeholder: 'Shift Timings' }"></div><br />
+    <div class="button" data-bind="dxButton: { text: 'Search Ride',height:'10%',width:'70%', clickAction: '#availableRides' }"></div>
+
+</div>
