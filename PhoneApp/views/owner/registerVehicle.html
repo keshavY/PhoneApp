@@ -1,0 +1,21 @@
+﻿<div data-options="dxView : { name: 'registerVehicle', title: 'REGISTER VEHICLE'} " >
+    
+    <div data-bind="dxTabs:{dataSource: tabs, itemClickAction: tabClicked}"></div>
+    <br />
+    <div class="textBox" data-bind=" dxTextBox: { placeholder: 'Source' }"></div><br />
+    <div class="textBox" data-bind=" dxTextBox: { placeholder: 'Destination' }"></div><br />
+    <div class="textBox" data-bind=" dxTextBox: { placeholder: 'Shift Timings' }"></div>
+    <div class="button" data-bind="dxButton: { text: 'Next',width:'50%', clickAction: '#registerVehicle2' }"></div>
+
+</div>
+
+<div data-options="dxView : { name: 'registerVehicle2', title: 'REGISTER VEHICLE'} " >
+
+    <div data-bind="dxTabs:{dataSource: tabs, itemClickAction: tabClicked}"></div>
+    <br />
+    <div class="textBox" data-bind=" dxTextBox: { placeholder: 'Vehicle Number' }"></div><br />    
+    <div class="textBox" data-bind=" dxTextBox: { placeholder: 'Model' }"></div><br />
+    <div class="textBox" data-bind=" dxTextBox: { placeholder: 'Number Of Seats' }"></div>
+    <div class="button" data-bind="dxButton: { text: 'Back',width:'50%', clickAction: '#registerVehicle' }"></div>
+    <div class="button" data-bind="dxButton: { text: 'Register',width:'60%', clickAction: '#availableRides' }"></div>
+</div>
